@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Inverter 1-8 is connected to input 0-7, each inverter invertes the input and activates the cooresponding light on the clock.
 
 ## How to test
-
-Explain how to use your project
+| input 0 | inverter | output 0 |
+|    0    |       1  |         1|
 
 ## External hardware
 
